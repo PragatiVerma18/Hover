@@ -39,6 +39,7 @@ h1 {
 .image:hover {
   border: 5px solid #5B2C6F;
   transform: scale(1.4);
+  transition: all 1s ease-in;
     border-radius: 50%;
   }
 
